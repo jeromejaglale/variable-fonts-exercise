@@ -42,12 +42,11 @@ footer {
 
 .logo {
 	font-size: 2rem;
-	margin-bottom: 16px;
+	margin-bottom: 12px;
 	font-weight: 900;
 }
 
 .sublogo {
-	font-style: italic;
 	font-weight: 500;
 	font-size: 1rem;
 	color: var(--color-gray-500);
@@ -70,7 +69,7 @@ footer {
 }
 
 .links h2 {
-	margin-bottom: 24px;
+	margin-bottom: 16px;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: var(--color-gray-700);
